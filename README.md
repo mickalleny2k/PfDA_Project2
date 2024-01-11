@@ -57,15 +57,18 @@ Alternatively you can open the repository in a Jupyter notebook.
 
 Refer to these snapshots for a step-by-step guide:
 
-Step 1: In Visual studio Code terminal or Cmder, change directory to PfDA_Project2 directory.
+#### Step 1: 
+In Visual studio Code terminal or Cmder, change directory to PfDA_Project2 directory.
 
 ![step_1](./img/cd.PNG)
 
-Step 2: Run command jupyter notebook
+#### Step 2: 
+Run command jupyter notebook
 
 ![step_2](./img/cmder.PNG)
 
-Step 3: The notebook opens in a web browser. It contains project.ipynb
+#### Step 3: 
+The notebook opens in a web browser. It contains project.ipynb, README.md, .gitignore and 2 folders: data, img.
 
 ![step_3](./img/jupyter.PNG)
 
