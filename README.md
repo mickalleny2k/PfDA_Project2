@@ -1,16 +1,6 @@
 # Programming for Data Analysis : Project 2
-
-An analysis of paleo-present climate data
-• Analyse CO2 vs Temperature Anomaly from 800kyrs – present.
-• Examine one other (paleo/modern) features (e.g. CH4 or polar ice-coverage)
-• Examine Irish context:
-• Fuse and analyse data from various data sources and format fused data set as a pandas
-dataframe and export to csv and json formats
-• For all of the above variables, analyse the data, the trends and the relationships between
-them (temporal leads/lags/frequency analysis).
-• Predict global temperature anomaly over next few decades (synthesise data) and compare to
-published climate models if atmospheric CO2 trends continue
-• Comment on accelerated warming based on very latest features (e.g. temperature/polar-icecoverage)
+This document contains the project instructions for Programming for Data Analysis.
+The project is primarily an analysis of paleo-present climate data.
 
 ## INTRODUCTION
 The European Project for Ice Coring in Antarctica (EPICA) is a multinational European project for deep ice core drilling in Antarctica. Its main objective is to obtain full documentation of the climatic and atmospheric record archived in Antarctic ice by drilling and analyzing ice cores. Evaluation of these records provides information about the natural climate variability and mechanisms of rapid climatic changes during the last glacial epoch going back 800,000 years.
