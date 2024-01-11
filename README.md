@@ -1,5 +1,16 @@
-# PfDA_Project2
-Project 2 for Programming for Data Analysis
+# Programming for Data Analysis : Project 2
+
+An analysis of paleo-present climate data
+• Analyse CO2 vs Temperature Anomaly from 800kyrs – present.
+• Examine one other (paleo/modern) features (e.g. CH4 or polar ice-coverage)
+• Examine Irish context:
+• Fuse and analyse data from various data sources and format fused data set as a pandas
+dataframe and export to csv and json formats
+• For all of the above variables, analyse the data, the trends and the relationships between
+them (temporal leads/lags/frequency analysis).
+• Predict global temperature anomaly over next few decades (synthesise data) and compare to
+published climate models if atmospheric CO2 trends continue
+• Comment on accelerated warming based on very latest features (e.g. temperature/polar-icecoverage)
 
 ## INTRODUCTION
 The European Project for Ice Coring in Antarctica (EPICA) is a multinational European project for deep ice core drilling in Antarctica. Its main objective is to obtain full documentation of the climatic and atmospheric record archived in Antarctic ice by drilling and analyzing ice cores. Evaluation of these records provides information about the natural climate variability and mechanisms of rapid climatic changes during the last glacial epoch going back 800,000 years.
@@ -67,3 +78,24 @@ Step 2: Run command jupyter notebook
 Step 3: The notebook opens in a web browser. It contains project.ipynb
 
 ![step_3](./img/jupyter.PNG)
+
+## ISSUES
+### Troubleshooting cloning errors
+
+https://docs.github.com/en/repositories/creating-and-managing-repositories/troubleshooting-cloning-errors
+
+If you're having trouble cloning a repository, check these common errors.
+1. HTTPS cloning errors
+ - Check your Git version
+ - Ensure the remote is correct
+ - Provide an access token
+ - Check your permissions
+ - Use SSH instead
+ 
+ 2. Error: Repository not found
+  - Check your spelling
+  - Checking your permissions
+  - Check your SSH access
+  - Check that the repository really exists
+  
+ 3. Error: Remote HEAD refers to nonexistent ref, unable to checkout
